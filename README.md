@@ -6,6 +6,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 ## Sliding Window
 |  |
 | ------- |
