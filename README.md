@@ -26,6 +26,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
