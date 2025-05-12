@@ -7,6 +7,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
+| [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,4 +45,16 @@
 | [0070-climbing-stairs](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1236-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
