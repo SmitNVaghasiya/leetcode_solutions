@@ -20,4 +20,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
