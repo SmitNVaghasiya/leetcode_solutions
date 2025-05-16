@@ -6,6 +6,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
