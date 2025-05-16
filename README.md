@@ -8,6 +8,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
