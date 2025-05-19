@@ -6,6 +6,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0861-flipping-an-image](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,11 +80,17 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
