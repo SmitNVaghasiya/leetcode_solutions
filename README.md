@@ -10,6 +10,7 @@
 | [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0342-power-of-four](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1236-n-th-tribonacci-number) |
+| [3321-type-of-triangle](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
