@@ -9,6 +9,7 @@
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/3321-type-of-triangle) |
 ## Sliding Window
@@ -79,6 +80,7 @@
 | ------- |
 | [0898-transpose-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
