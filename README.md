@@ -59,10 +59,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/3321-type-of-triangle) |
 ## Enumeration
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0861-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SmitNVaghasiya/leetcode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
